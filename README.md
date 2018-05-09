@@ -1,2 +1,2 @@
 # hello-world
-GitHub guide
+It was jus a GitHub guide, but now it's somehing more!
